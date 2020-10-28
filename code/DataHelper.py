@@ -5,7 +5,7 @@ import gc
 import glob
 import os
 import pickle
-from DataProcessor import Movielens
+# from DataProcessor import Movielens
 from tqdm import tqdm
 from multiprocessing import Process, Pool
 from multiprocessing.pool import ThreadPool
@@ -49,9 +49,9 @@ class DataHelper:
                 supp_mps_s.append(supp_mp_data)
                 query_mps_s.append(query_mp_data)
         else:
-            if not load_from_file:
-                ml = Movielens(os.path.join(self.input_dir,data_set), os.path.join(self.output_dir,data_set))
-                ml.support_query_data()
+#             if not load_from_file:
+#                 ml = Movielens(os.path.join(self.input_dir,data_set), os.path.join(self.output_dir,data_set))
+#                 ml.support_query_data()
 
             training_set_size = int(len(glob.glob("{}/{}/*.pkl".format(data_dir,state))) / self.config['file_num'])  # support, query
 
