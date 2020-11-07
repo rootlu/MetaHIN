@@ -30,7 +30,7 @@ MetaHIN/
 │       ├── original/: the original data without any preprocess
 │       ├── MovielensProcessor.ipynb: preprocess data 
 │   └── yelp
-│       ├──original/: the original data without any preprocess
+│       ├── original/: the original data without any preprocess
 │       ├── YelpProcessor.ipynb: preprocess data 
 ├── README.md
 ```
