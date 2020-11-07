@@ -13,7 +13,7 @@ Details requirements please refer to [requirements.txt](https://github.com/rootl
 # Description
 
 ```
-RHINE/
+MetaHIN/
 ├── code
 │   ├── main.py：the main funtion of model
 │   ├── Config.py：configs for model
