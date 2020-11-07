@@ -8,8 +8,7 @@ Source code for KDD 2020 paper "[Meta-learning on Heterogeneous Information Netw
 - PyTorch 1.3.1
 - PyTorch (0.3.0)
 - My operating system is Ubuntu 16.04.1 with one GPU (GeForce RTX) and CPU (Intel Xeon W-2133)
-
-Detailed requirements refer to [requirements.txt](https://github.com/rootlu/MetaHIN/blob/master/requirements.txt)
+- Detailed [requirements](https://github.com/rootlu/MetaHIN/blob/master/requirements.txt)
 
 # Description
 
@@ -25,14 +24,14 @@ MetaHIN/
 │   ├── MetaLeaner_new.py: the base model 
 ├── data
 │   └── dbook
-│       ├──original/: the original data without any preprocess
+│       ├── original/: the original data without any preprocess
 │       ├── DBookProcessor.ipynb: preprocess data 
 │   └── movielens
-│       ├──original/: the original data without any preprocess
-│       ├── DBookProcessor.ipynb: preprocess data 
+│       ├── original/: the original data without any preprocess
+│       ├── MovielensProcessor.ipynb: preprocess data 
 │   └── yelp
 │       ├──original/: the original data without any preprocess
-│       ├── DBookProcessor.ipynb: preprocess data 
+│       ├── YelpProcessor.ipynb: preprocess data 
 ├── README.md
 ```
 
