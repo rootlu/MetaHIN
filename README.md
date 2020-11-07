@@ -9,7 +9,7 @@ Source code for KDD 2020 paper "[Meta-learning on Heterogeneous Information Netw
 - PyTorch (0.3.0)
 - My operating system is Ubuntu 16.04.1 with one GPU (GeForce RTX) and CPU (Intel Xeon W-2133)
 
-Detailed requirements please refer to [requirements.txt](https://github.com/rootlu/MetaHIN/blob/master/requirements.txt)
+Detailed requirements refer to [requirements.txt](https://github.com/rootlu/MetaHIN/blob/master/requirements.txt)
 
 # Description
 
