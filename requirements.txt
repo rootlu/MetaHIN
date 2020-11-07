@@ -107,7 +107,7 @@ soupsieve==1.9.5
 statsmodels==0.11.0
 tensorboard==1.14.0
 tensorboardX==2.0
-tensorflow==1.14.0
+tensorflow==1.15.4
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
