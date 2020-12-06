@@ -9,9 +9,9 @@ Source code for KDD 2020 paper "[Meta-learning on Heterogeneous Information Netw
 - Detailed [requirements](https://github.com/rootlu/MetaHIN/blob/master/requirements.txt)
 
 # Datasets
-We have uploaded the original data of DBook, Movielens and Yelp in `data/` folder.
+We have uploaded the original data of DBook, Movielens and Yelp in the `data/` folder.
 
-The processed data of DBook and Movielens can be downloaded from Google Drive and [BaiduYun](https://pan.baidu.com/s/15xD5WSdcG4m0oXgfABAGkQ) (Extraction code: ened).
+The processed data of DBook and Movielens can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1grlZQnitO9pF-LyckYHr8fAtuwuRgxRP?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/15xD5WSdcG4m0oXgfABAGkQ) (Extraction code: ened).
 
 The processed data of Yelp can be generate by the code [data/yelp/YelpProcessor.ipynb](https://github.com/rootlu/MetaHIN/blob/master/data/yelp/YelpProcessor.ipynb).
 
