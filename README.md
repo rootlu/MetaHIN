@@ -9,6 +9,9 @@ Source code for KDD 2020 paper "[Meta-learning on Heterogeneous Information Netw
 - My operating system is Ubuntu 16.04.1 with one GPU (GeForce RTX) and CPU (Intel Xeon W-2133)
 - Detailed [requirements](https://github.com/rootlu/MetaHIN/blob/master/requirements.txt)
 
+# Datasets
+We upload the processed data at Google Drive and [BaiduYun](https://pan.baidu.com/s/15xD5WSdcG4m0oXgfABAGkQ) (Extraction code: ened)
+
 # Description
 
 ```
