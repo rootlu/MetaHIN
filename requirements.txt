@@ -15,7 +15,6 @@ defusedxml==0.6.0
 entrypoints==0.3
 fastFM==0.2.11
 gast==0.3.3
-gcmc==0.1
 google-pasta==0.1.8
 googledrivedownloader==0.4
 gpustat==0.6.0
