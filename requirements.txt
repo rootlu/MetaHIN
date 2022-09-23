@@ -78,7 +78,7 @@ Pillow==7.0.0
 plyfile==0.7.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-protobuf==3.11.4
+protobuf==3.18.3
 psutil==5.6.7
 ptyprocess==0.6.0
 pycairo==1.19.0
